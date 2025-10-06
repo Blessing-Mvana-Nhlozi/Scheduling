@@ -88,13 +88,13 @@ The **`Profiler`** context manager is used to monitor execution time and memory 
 ## Example Usage
 
 ```bash
-python 001_Scheduler.ipynb
+python 001_Scheduler.py
 ```
 
 or in Jupyter Notebook:
 
 ```python
-%run 001_Main.ipynb
+%run 001_Scheduler.ipynb
 ```
 
 The solution file `timetable.csv` will be saved automatically in the working directory.
