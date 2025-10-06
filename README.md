@@ -68,7 +68,7 @@ The **`Profiler`** context manager is used to monitor execution time and memory 
     │
     ├── opt_test/
     │   ├── 000_Functions.ipynb
-    │   ├── 001_Main.ipynb
+    │   ├── 001_Scheduler.ipynb
     │   │
     │   ├── class_list.csv
     │   ├── timeslots.csv
@@ -88,7 +88,7 @@ The **`Profiler`** context manager is used to monitor execution time and memory 
 ## Example Usage
 
 ```bash
-python 001_Main.py
+python 001_Scheduler.ipynb
 ```
 
 or in Jupyter Notebook:
